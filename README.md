@@ -23,7 +23,7 @@
     
 <br />
     
-[![Hrim's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrimwk&hide=css,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Hrim's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrimwk&exclude_repo=justcode-6-2nd-team3-front&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div align='left'>
 <br />
